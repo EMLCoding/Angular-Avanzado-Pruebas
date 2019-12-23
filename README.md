@@ -10,3 +10,6 @@
     beforeEcha() -> se ejecuta una vez antes que cada prueba
     afterAll() -> se ejecuta una vez despues de terminar todas las pruebas
     afterEach() -> se ejecuta una vez después de cada una de las pruebas
+
+# Espias
+    Permiten falsificar la información recibida de una petición HTTP al back
